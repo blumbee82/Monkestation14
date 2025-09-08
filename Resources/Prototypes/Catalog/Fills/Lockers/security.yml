@@ -29,6 +29,7 @@
   table: !type:AllSelector
     children:
     - id: FlashlightSeclite
+    - id: WardenGunCase # Omu
     #- id: WeaponDisabler # Goobstation (Disablers in belts)
     - id: ClothingBeltSecurityFilled
     - id: Flash

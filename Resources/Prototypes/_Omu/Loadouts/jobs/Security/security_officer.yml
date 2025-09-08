@@ -8,3 +8,9 @@
     back:
     - MagazinePistol
   groupBy: "Main weapon"
+
+- type: loadout
+  id: OfficerGunCase
+  dummyEntity: OfficerGunCase
+  equipment:
+    pocket1: OfficerGunCase

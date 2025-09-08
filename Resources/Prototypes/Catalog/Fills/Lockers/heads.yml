@@ -385,6 +385,7 @@
     - id: DrinkHosFlask
     - id: ClothingBeltSheathHeadOfSecurityFilled # Goobstation - security revamp
     - id: MaterialSiloFlatpack # Goob
+    - id: HeadOfSecurityMeleeCase # Omu
 
 # Hardsuit table, used for suit storage as well
 - type: entityTable
