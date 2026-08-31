@@ -39,6 +39,16 @@
   - WeaponEnergyShotgun
 
 - type: selectableSet
+  id: BrigmedWeaponDisablerSMGSet
+  name: selectable-set-brigmed-disabler-name
+  description: selectable-set-brigmed-disabler-description
+  sprite:
+    sprite: Objects/Weapons/Guns/Battery/disabler_smg.rsi
+    state: base
+  content:
+  - WeaponDisablerSMG
+
+- type: selectableSet
   id: WeaponMk58Set
   name: selectable-set-mk58-name
   description: selectable-set-mk58-description

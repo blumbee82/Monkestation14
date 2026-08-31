@@ -68,6 +68,21 @@
     maxSelectedSets: 1
 
 - type: entity
+  id: BrigMedCase
+  name: Frontline duty case
+  description: A case, used to securely store your duty weapon of choice.
+  parent: [ BaseItem, BaseSetSelector, BaseSecurityContraband ]
+  components:
+  - type: Sprite
+    sprite: _Omu/Objects/Misc/GunCases/corpsmancase.rsi
+    state: icon
+  - type: SetSelector
+    possibleSets:
+    - WeaponMk58Set
+    - BrigmedWeaponDisablerSMGSet
+    maxSelectedSets: 1
+
+- type: entity
   id: CaptainGunCase
   name: Captain's Weapon Case.
   description: A case, Used to securely store your duty weapon of choice.
