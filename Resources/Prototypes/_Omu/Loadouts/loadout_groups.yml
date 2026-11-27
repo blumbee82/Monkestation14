@@ -6,5 +6,6 @@
   minLimit: 1
   maxLimit: 1
   loadouts:
+  - OfficerGunCase
   - SecurityOfficerMk58
   - WeaponPistolMk58Gold

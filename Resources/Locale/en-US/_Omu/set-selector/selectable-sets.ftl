@@ -1,9 +1,9 @@
-selectable-set-eshotty-r6-name = Energy Shotgun
-selectable-set-eshotty-r6-desc =
+selectable-set-warden-eshotty-name = Energy Shotgun
+selectable-set-warden-eshotty-description =
     The classic tool for quickly swapping straight to lethal.
 
 selectable-set-warden-r6-name = R6 Trenchgun
-selectable-set-warden-r6-desc =
+selectable-set-warden-r6-description =
     The simpler solution in armory defense.
 
 selectable-set-hos-belt-name = Qua Nar'Vulna
@@ -23,11 +23,6 @@ selectable-set-hos-lawbringer-description =
 selectable-set-mk58-name = Mk58 Pistol
 selectable-set-mk58-description =
     The standard duty pistol for Nanotrasen Security.
-
-selectable-set-t8-name = T8 "Consistency" Revolver.
-selectable-set-t8-description =
-    An alternative to the MK58, this revolver
-    trades throughput for increased ability to shatter bones.
 
 selectable-set-terminus-name = Terminus
 selectable-set-terminus-description =

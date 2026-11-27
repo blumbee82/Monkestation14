@@ -65,7 +65,7 @@
     children:
     - !type:NestedSelector
       tableId: LockerFillCaptainNoLaser
-    - id: WeaponAntiqueLaser
+    - id: CaptainGunCase
 
 # Hardsuit table, used for suit storage as well
 - type: entityTable
@@ -383,7 +383,7 @@
     - id: ComputerCargoRequestSecurityFlatpack # Goobstation
     - id: WantedListCartridge
     - id: DrinkHosFlask
-    - id: ClothingBeltSheathHeadOfSecurityFilled # Goobstation - security revamp
+    #- id: ClothingBeltSheathHeadOfSecurityFilled # Goobstation #Monke replaced by MeleeCase
     - id: MaterialSiloFlatpack # Goob
     - id: HeadOfSecurityMeleeCase # Omu
 
