@@ -39,7 +39,7 @@
     id: DetectivePDA
     #gloves: ClothingHandsGlovesForensic - Goobstation, moved to loadouts
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    belt: ClothingBeltHolsterFilled
+    #belt: ClothingBeltHolsterFilled Monke, moved to loadouts
   storage:
     back:
     - Flash

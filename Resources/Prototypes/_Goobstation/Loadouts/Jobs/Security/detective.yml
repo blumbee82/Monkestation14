@@ -29,3 +29,10 @@
   id: DetectiveGloves
   equipment:
     gloves: ClothingHandsGlovesForensic
+
+- type: loadout #Monke
+  id: DetectiveWeaponRevolverInspector
+  dummyEntity: WeaponRevolverInspector
+  equipment:
+    belt: ClothingBeltHolsterFilled
+  groupBy: "Main weapon"

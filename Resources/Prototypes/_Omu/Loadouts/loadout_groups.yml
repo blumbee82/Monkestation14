@@ -10,23 +10,21 @@
   - SecurityOfficerMk58
   - WeaponPistolMk58Gold
 
-# We have a separate one for detective cause holster
 - type: loadoutGroup
   id: TrinketsSecurityDetective
   name: loadout-group-detective-gun
   minLimit: 1
   maxLimit: 1
   loadouts:
-  - DetectiveWeaponRevolverInspector # Default for det should be their revolver
+  - DetectiveWeaponRevolverInspector 
 
-# And... a separate one for brigmed cause they cant put the terminus in the suit storage
 - type: loadoutGroup
   id: TrinketsSecurityBrigmed
   name: loadout-group-security-gun
   minLimit: 1
   maxLimit: 1
   loadouts:
-  - BrigMedCase # Brigmed gets some goddamn flavor now
+  - BrigMedCase 
   - SecurityOfficerMk58
   - WeaponPistolMk58Gold
-  - BrigmedWeaponDisablerSMG
+  - WeaponDisablerSMG
