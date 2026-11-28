@@ -65,3 +65,17 @@
   id: BrigmedicMJ
   equipment:
     jumpsuit: ClothingUniformJumpsuitMilitaryBrigmedic
+
+- type: loadout #Omu
+  id: BrigMedCase
+  dummyEntity: BrigMedCase
+  equipment:
+    pocket1: BrigMedCase
+  groupBy: "Main weapon"
+
+- type: loadout #Monke
+  id: WeaponDisablerSMG
+  dummyEntity: WeaponDisablerSMG
+  equipment:
+    pocket1: WeaponDisablerSMG
+  groupBy: "Main weapon"
