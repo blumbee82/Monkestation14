@@ -39,16 +39,6 @@
   - WeaponEnergyShotgun
 
 - type: selectableSet
-  id: WeaponWardenRevolverShotgunSet
-  name: selectable-set-warden-r6-name
-  description: selectable-set-warden-r6-description
-  sprite:
-    sprite: _Omu/Objects/Weapons/Guns/Revolvers/R6.rsi
-    state: base
-  content:
-  - WeaponWardenRevolverShotgun
-
-- type: selectableSet
   id: WeaponMk58Set
   name: selectable-set-mk58-name
   description: selectable-set-mk58-description
@@ -79,16 +69,6 @@
     state: base
   content:
   - WeaponAntiqueLaser
-
-- type: selectableSet
-  id: WeaponVC8Set
-  name: selectable-set-vc8-name
-  description: selectable-set-vc8-description
-  sprite:
-    sprite: _Omu/Objects/Weapons/Guns/Revolvers/VC-8.rsi
-    state: base
-  content:
-  - VulcanEightRevolver
 
 - type: selectableSet
   id: HosIrelanderSet

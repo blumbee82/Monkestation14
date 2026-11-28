@@ -48,7 +48,6 @@
   - type: SetSelector
     possibleSets:
     - WeaponEnergyShotgunSet
-    - WeaponWardenRevolverShotgunSet
     maxSelectedSets: 1
   - type: StealTarget
     stealGroup: WeaponEnergyShotgun
@@ -80,7 +79,6 @@
   - type: SetSelector
     possibleSets:
     - WeaponAntiqueLaserSet
-    - WeaponVC8Set
     maxSelectedSets: 1
   - type: StealTarget
     stealGroup: WeaponAntiqueLaser
