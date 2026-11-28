@@ -48,7 +48,7 @@
       amount: 2
     #- id: NetworkConfigurator # Goobstation?
     - id: Binoculars
-    - id: WeaponEnergyShotgun # Goobstation?
+    #- id: WeaponEnergyShotgun # Goobstation? #Monke replaced by GunCase
     - id: UndeterminedGlovesWarden # Goobstation - Martial Arts
     - id: BoxLethalInjection # Goobstation
     - id: ClothingHeadsetAltWarden # Goobstation
