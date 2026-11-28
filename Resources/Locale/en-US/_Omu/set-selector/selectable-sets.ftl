@@ -34,3 +34,6 @@ selectable-set-irelander-description =
     An ancient copper blade,
     The ender of troubles.
     Smashes through walls with ease.
+
+selectable-set-brigmed-disabler-name = Disabler SMG
+selectable-set-brigmed-disabler-description = What it says on the box. The more 'do no harm' approach.

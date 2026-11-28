@@ -69,7 +69,7 @@
 
 - type: entity
   id: BrigMedCase
-  name: Frontline duty case
+  name: Brigmed's duty case
   description: A case, used to securely store your duty weapon of choice.
   parent: [ BaseItem, BaseSetSelector, BaseSecurityContraband ]
   components:
